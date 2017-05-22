@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" appversion="5.1" apprev="15722">
+  <panorama id="node1">
+    <input levelingroll="1.5" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.5" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="7" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House" longitude="-6.750618517398834" datetime="03/05/2017 12:57" description="" copyright="" latitude="54.48760593871437" title="Unit 5 (Entrance Outside)" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="6.06" skinid="HotSpotDoor" description="" title="01_01" tilt="-4.51" url="{node2}" target="-65.3973/-8.11195/70"/>
+      <hotspot id="Point02" pan="-171.48" skinid="HotSpot" description="" title="03" tilt="-22.2" url="{node6}" target="179.983/-7.93856/70"/>
+      <hotspot id="Point03" pan="37.21" skinid="HotSpotInfo" description="Location: &#xa;Unit 5, Dye House, Linen Green&#xa;&#xa;Size:&#xa;89.30m2 - 961ft2" title="Maison Real Estate" tilt="-2.73" url="" target=""/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="-164.18" alpha="80" type="1" color="0xffffff" tilt="52.88"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="1.4" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.6" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="292.5" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House|Vacant" longitude="-6.750620982803412" datetime="03/05/2017 12:56" description="" copyright="" latitude="54.487616337058014" title="Unit 5 (Entrance Inside)" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="115.41" skinid="HotSpotDoor" description="" title="01_00" tilt="-4.62" url="{node1}" target="-165.158/0/70"/>
+      <hotspot id="Point02" pan="293.92" skinid="HotSpot" description="" title="01_02" tilt="-22.89" url="{node3}" target="165.637/0/70"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="1.7" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.9" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="164" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House|Occupied" longitude="-6.750622540712357" datetime="03/05/2017 12:59" description="" copyright="" latitude="54.48764800574633" title="Unit 5" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-15.31" skinid="HotSpot" description="" title="01_01" tilt="-24.16" url="{node2}" target="114.137/0/70"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="1.4" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.2" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="247.5" fovmode="0">
+      <start pan="168.672" projection="4" fov="70" tilt="11.4095"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House|main" longitude="-6.750337930059459" datetime="03/05/2017 12:31" description="" copyright="" latitude="54.48740941953787" title="The Dye House Unit 1" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="262.29" skinid="HotSpot" description="" title="02" tilt="-6.02" url="{node5}" target="-18.2144/0/70"/>
+      <hotspot id="Point02" pan="-173.85" skinid="HotSpotInfo" description="Location: &#xa;Unit 1, Dye House, Linen Green&#xa;&#xa;Size:&#xa;275.80m2 - 2969 ft2" title="Design Yard" tilt="0.6" url="" target=""/>
+    </hotspots>
+    <media>
+      <video width="960" fov="30.000" rotz="0.000" level="1.000" tilt="1.010" pansize="10.000" clickmode="2" rotx="0.000" id="Element01" field="90.000" tiltsize="10.000" pan="145.000" mode="3" handcursor="1" ambientlevel="0.000" height="960" loop="0" roty="0.000" stretch="1.000">
+        <source url="media/LinenGreenWelcomeBorder.mp4"/>
+      </video>
+      <image id="Element02" pan="145.000" width="250" height="150" stretch="1.000" handcursor="0" rotz="0.000" rotx="-27.000" roty="0.000" fov="30.000" clickmode="0" tilt="-22.740">
+        <source url="media/Post.png"/>
+      </image>
+      <lensflare blinding="50" id="Lensflare01" pan="96.98" alpha="80" type="1" color="0xffffff" tilt="51.25"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="1" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="1.1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="337.5" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House" longitude="-6.750359720237725" datetime="03/05/2017 12:32" description="" copyright="" latitude="54.48757832588005" title="The Dye House Unit 3" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="156.63" skinid="HotSpot" description="" title="01" tilt="-5.12" url="{node4}" target="100.055/-1.3125/70"/>
+      <hotspot id="Point02" pan="413.04" skinid="HotSpot" description="" title="03" tilt="-7.81" url="{node6}" target="92.4519/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="166.7" alpha="80" type="1" color="0xffffff" tilt="50.6"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="2.1" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="2.1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House" longitude="-6.750616728836121" datetime="03/05/2017 12:36" description="" copyright="" latitude="54.48757193293306" title="The Dye House Unit 5" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-5.12" skinid="HotSpot" description="" title="01_00" tilt="-15.73" url="{node1}" target="$fwd"/>
+      <hotspot id="Point02" pan="-88.67" skinid="HotSpot" description="" title="02" tilt="-8.07" url="{node5}" target="-110.048/0/70"/>
+      <hotspot id="Point03" pan="88.11" skinid="HotSpot" description="" title="04" tilt="-2.21" url="{node7}" target="$fwd"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="-167.46" alpha="80" type="1" color="0xffffff" tilt="50.62"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="2" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.5" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Dye House" longitude="-6.751026781579981" datetime="03/05/2017 12:38" description="" copyright="" latitude="54.487539026620865" title="The Dye House Unit 8" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="24.2" skinid="HotSpot" description="" title="03" tilt="-4.64" url="{node6}" target="-82.1342/0/70"/>
+      <hotspot id="Point02" pan="278.66" skinid="HotSpot" description="" title="05" tilt="-1.83" url="{node8}" target="129.548/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="-57.4" alpha="80" type="1" color="0xffffff" tilt="48.46"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="2.2" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="2.3" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="315" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Weaving Sheds|main" longitude="-6.751146355819742" datetime="03/05/2017 12:40" description="" copyright="" latitude="54.48681125794757" title="The Weaving Sheds Unit 17" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="317.66" skinid="HotSpot" description="" title="04" tilt="-3.46" url="{node7}" target="84.5482/0/70"/>
+      <hotspot id="Point02" pan="409.79" skinid="HotSpot" description="" title="06" tilt="-3.02" url="{node9}" target="-109.327/0/70"/>
+      <hotspot id="Point03" pan="203.34" skinid="HotSpot" description="" title="11" tilt="-1.73" url="{node14}" target="-67.9768/0/70"/>
+      <hotspot id="Point04" pan="509.74" skinid="HotSpot" description="" title="10" tilt="-2.55" url="{node13}" target="-45.2931/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="160.64" alpha="80" type="1" color="0xffffff" tilt="50.94"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="1.8" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.7" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="157.5" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Cloth loft|The Weaving Sheds" longitude="-6.751707836805281" datetime="03/05/2017 12:42" description="" copyright="" latitude="54.48679317571527" title="The Cloth loft Unit 10" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="89.74" skinid="HotSpot" description="" title="05" tilt="-1.54" url="{node8}" target="-111.595/-2.59891/70"/>
+      <hotspot id="Point02" pan="-2.1" skinid="HotSpot" description="" title="07" tilt="-5.84" url="{node10}" target="96.0207/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="6.18" alpha="80" type="1" color="0xffffff" tilt="49.27"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0.2" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0.5" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="270" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="Final|The Cloth loft|The Frame House" longitude="-6.751649519014336" datetime="03/05/2017 12:44" description="" copyright="" latitude="54.48647197726236" title="The Frame House Unit 7" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="279.28" skinid="HotSpot" description="" title="06" tilt="-3.63" url="{node9}" target="177.218/-0.936378/70"/>
+      <hotspot id="Point02" pan="446.53" skinid="HotSpot" description="" title="08" tilt="-5.17" url="{node11}" target="127.436/-3.6751/70"/>
+      <hotspot id="Point03" pan="192.48" skinid="HotSpot" description="" title="10" tilt="-2.28" url="{node13}" target="50.1593/-1.38582/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="105.4" alpha="80" type="1" color="0xffffff" tilt="51.69"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="4.4" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="2" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="315" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Frame House|The Warehouse" longitude="-6.751679084655734" datetime="03/05/2017 12:45" description="" copyright="" latitude="54.48627988382099" title="The Frame House Unit 5" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="147.59" skinid="HotSpot" description="" title="09" tilt="-1.73" url="{node12}" target="-91.6337/-5.22402/70"/>
+      <hotspot id="Point02" pan="320.55" skinid="HotSpot" description="" title="07" tilt="-7.02" url="{node10}" target="-95.1091/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="154.74" alpha="80" type="1" color="0xffffff" tilt="52.38"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0.7" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="-0.3" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="67.5" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Frame House|The Warehouse|main" longitude="-6.7516053030758485" datetime="03/05/2017 12:47" description="" copyright="" latitude="54.48603932570412" title="The Frame House Unit 1" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="84.71" skinid="HotSpot" description="" title="08" tilt="-6.81" url="{node11}" target="-34.8978/0/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="-89.48" alpha="80" type="1" color="0xffffff" tilt="48.24"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="1.2" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="1.2" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="135" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="The Warehouse" longitude="-6.751148930059571" datetime="03/05/2017 12:49" description="" copyright="" latitude="54.486518931849666" title="The Warehouse Unit 29" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="82.28" skinid="HotSpot" description="" title="11" tilt="0.11" url="{node14}" target="-2.01905/0/70"/>
+      <hotspot id="Point02" pan="131.38" skinid="HotSpot" description="" title="05" tilt="-1.86" url="{node8}" target="-45.2931/0/70"/>
+      <hotspot id="Point03" pan="234.38" skinid="HotSpot" description="" title="07" tilt="-2.32" url="{node10}" target="17.3755/0.730916/70"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50" id="Lensflare01" pan="-35.85" alpha="80" type="1" color="0xffffff" tilt="51.8"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="-1.9" levelbiashidpi="0.400" levelbias="0.400" width="1344" height="1344" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="6.1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="45" fovmode="0">
+      <start pan="28.5532" projection="4" fov="70" tilt="-2.01023"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="90" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" source="" tags="Linen Green|main" longitude="-6.7507769766864385" datetime="03/05/2017 12:51" description="" copyright="" latitude="54.486720280484896" title="Linen Green Entrance" info="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" width="180" height="20" textcolor="0x000000" backgroundalpha="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="125.37" skinid="HotSpot" description="" title="05" tilt="-4.78" url="{node8}" target="22.0229/0/70"/>
+      <hotspot id="Point02" pan="179.53" skinid="HotSpot" description="" title="10" tilt="-5.59" url="{node13}" target="-92.0194/0/70"/>
+    </hotspots>
+    <media>
+      <video width="960" fov="30.000" rotz="0.000" level="1.000" tilt="-9.920" pansize="10.000" clickmode="2" rotx="0.000" id="Element01" field="90.000" tiltsize="10.000" pan="74.670" mode="6" handcursor="0" ambientlevel="0.000" height="960" loop="-1" roty="0.000" stretch="1.000">
+        <source url="media/LinenGreenWelcomeBorder.mp4"/>
+      </video>
+      <image id="Element02" pan="74.210" width="496" height="99" stretch="1.000" handcursor="0" rotz="0.000" rotx="-20.000" roty="0.000" fov="30.000" clickmode="0" tilt="-27.820">
+        <source url="media/Post.png"/>
+      </image>
+      <lensflare blinding="50" id="Lensflare01" pan="-112.26" alpha="80" type="1" color="0xffffff" tilt="49.92"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="0" zoomoutpause="1" zoomout="0" softedge="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <autorotate delay="3.00" speed="-0.100" enabled="1" noderandom="1" nodedelay="0.00" returntohorizon="1.000" useanimation="0" startloaded="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="1">
+      <clip length="110" nextcliptitle="Entrance" cliptitle="Entrance" animtype="0" nodeid="node14" nextclipnodeid="node14" animtitle="Animation01" transitiontype="0">
+        <keyframe value="25.8855" transitiontime="0" property="0" time="0" type="0"/>
+        <keyframe value="11.4747" transitiontime="0" property="1" time="0" type="0"/>
+        <keyframe value="30" transitiontime="0" property="2" time="0" type="0"/>
+        <keyframe value="4" transitiontime="110" property="3" time="0" type="0"/>
+        <keyframe bezierintime="4" bezierouttime="22" bezieroutvalue="25.8855" value="25.8855" transitiontime="0" bezierinvalue="25.8855" property="0" time="10" type="2"/>
+        <keyframe bezierintime="4" bezierouttime="22" bezieroutvalue="11.4747" value="11.4747" transitiontime="0" bezierinvalue="11.4747" property="1" time="10" type="2"/>
+        <keyframe bezierintime="4" bezierouttime="22" bezieroutvalue="30" value="30" transitiontime="0" bezierinvalue="30" property="2" time="10" type="2"/>
+        <keyframe bezierintime="48" bezierouttime="72" bezieroutvalue="85.4624" value="85.4624" transitiontime="0" bezierinvalue="85.4624" property="0" time="60" type="2"/>
+        <keyframe bezierintime="48" bezierouttime="72" bezieroutvalue="9.2117" value="9.2117" transitiontime="0" bezierinvalue="9.2117" property="1" time="60" type="2"/>
+        <keyframe bezierintime="48" bezierouttime="72" bezieroutvalue="68.4073" value="68.40730000000001" transitiontime="0" bezierinvalue="68.4073" property="2" time="60" type="2"/>
+        <keyframe bezierintime="88" bezierouttime="103" bezieroutvalue="127.136" value="127.136" transitiontime="0" bezierinvalue="127.136" property="0" time="100" type="2"/>
+        <keyframe bezierintime="88" bezierouttime="103" bezieroutvalue="-5.7977" value="-5.7977" transitiontime="0" bezierinvalue="-5.7977" property="1" time="100" type="2"/>
+        <keyframe bezierintime="88" bezierouttime="103" bezieroutvalue="68.4073" value="68.40730000000001" transitiontime="0" bezierinvalue="68.4073" property="2" time="100" type="2"/>
+        <keyframe bezierintime="107" bezierouttime="10110" bezieroutvalue="127.136" value="127.136" transitiontime="0" bezierinvalue="127.136" property="0" time="110" type="2"/>
+        <keyframe bezierintime="107" bezierouttime="10110" bezieroutvalue="-5.7977" value="-5.7977" transitiontime="0" bezierinvalue="-5.7977" property="1" time="110" type="2"/>
+        <keyframe bezierintime="107" bezierouttime="10110" bezieroutvalue="30" value="30" transitiontime="0" bezierinvalue="30" property="2" time="110" type="2"/>
+      </clip>
+    </animation>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="0" sensitivity="8" hideabout="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1"/>
+  </panorama>
+</tour>
